@@ -1,0 +1,381 @@
+[
+  {
+    "id": 1,
+    "name": "Laugh Out Loud",
+    "category": "Comedy",
+    "description": "A night of non-stop laughter with top comedians.",
+    "dates": [
+      {
+        "date": "2025-02-10",
+        "price": 20
+      }
+    ],
+    "venue": "The Comedy Club",
+    "time": "7:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/1115680/pexels-photo-1115680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "name": "Championship Finals",
+    "category": "Sport",
+    "description": "Witness the grand finals of the championship.",
+    "dates": [
+      {
+        "date": "2025-03-05",
+        "price": 50
+      }
+    ],
+    "venue": "National Stadium",
+    "time": "6:30 PM",
+    "imageUrl": "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "name": "Rock the Night",
+    "category": "Concert",
+    "description": "An electrifying rock concert with famous bands.",
+    "dates": [
+      {
+        "date": "2025-04-12",
+        "price": 70
+      },
+      {
+        "date": "2025-04-13",
+        "price": 75
+      }
+    ],
+    "venue": "City Arena",
+    "time": "8:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/167491/pexels-photo-167491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "name": "Comedy Night Live",
+    "category": "Comedy",
+    "description": "A hilarious evening featuring new and seasoned comedians.",
+    "dates": [
+      {
+        "date": "2025-02-20",
+        "price": 25
+      }
+    ],
+    "venue": "Downtown Theater",
+    "time": "7:30 PM",
+    "imageUrl": "https://images.pexels.com/photos/144429/pexels-photo-144429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "name": "Soccer Showdown",
+    "category": "Sport",
+    "description": "A thrilling soccer match between top teams.",
+    "dates": [
+      {
+        "date": "2025-03-15",
+        "price": 60
+      }
+    ],
+    "venue": "Greenfield Stadium",
+    "time": "5:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/30314838/pexels-photo-30314838/free-photo-of-dynamic-soccer-tackle-on-outdoor-field.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "name": "Jazz and Blues Night",
+    "category": "Concert",
+    "description": "An enchanting evening of jazz and blues.",
+    "dates": [
+      {
+        "date": "2025-03-22",
+        "price": 40
+      }
+    ],
+    "venue": "Blue Note Club",
+    "time": "8:30 PM",
+    "imageUrl": "https://images.pexels.com/photos/733767/pexels-photo-733767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "name": "Stand-Up Explosion",
+    "category": "Comedy",
+    "description": "A stand-up comedy show that will leave you in stitches.",
+    "dates": [
+      {
+        "date": "2025-02-28",
+        "price": 30
+      }
+    ],
+    "venue": "Uptown Stage",
+    "time": "9:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/25685883/pexels-photo-25685883/free-photo-of-young-musician-performing-on-stage.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "name": "Basketball All-Stars",
+    "category": "Sport",
+    "description": "Watch the all-star basketball game live.",
+    "dates": [
+      {
+        "date": "2025-04-01",
+        "price": 65
+      }
+    ],
+    "venue": "City Arena",
+    "time": "7:00 PM",
+    "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=2090&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "Pop Hits Live",
+    "category": "Concert",
+    "description": "A night of chart-topping pop hits performed live.",
+    "dates": [
+      {
+        "date": "2025-03-10",
+        "price": 55
+      }
+    ],
+    "venue": "Grand Hall",
+    "time": "8:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/802195/pexels-photo-802195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 10,
+    "name": "Improv Mania",
+    "category": "Comedy",
+    "description": "An interactive improv show full of surprises.",
+    "dates": [
+      {
+        "date": "2025-02-25",
+        "price": 35
+      }
+    ],
+    "venue": "The Playhouse",
+    "time": "7:30 PM",
+    "imageUrl": "https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 11,
+    "name": "Tennis Open Finals",
+    "category": "Sport",
+    "description": "The thrilling finals of the Tennis Open.",
+    "dates": [
+      {
+        "date": "2025-03-20",
+        "price": 80
+      }
+    ],
+    "venue": "Center Court Arena",
+    "time": "4:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/5741299/pexels-photo-5741299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 12,
+    "name": "Symphony Under the Stars",
+    "category": "Concert",
+    "description": "A magical symphony performance under the open sky.",
+    "dates": [
+      {
+        "date": "2025-04-18",
+        "price": 90
+      }
+    ],
+    "venue": "Open Air Theater",
+    "time": "8:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 13,
+    "name": "Late Night Laughs",
+    "category": "Comedy",
+    "description": "A late-night comedy show with top performers.",
+    "dates": [
+      {
+        "date": "2025-02-15",
+        "price": 22
+      }
+    ],
+    "venue": "Night Owl Theater",
+    "time": "10:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/10078868/pexels-photo-10078868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 14,
+    "name": "World Wrestling Championship",
+    "category": "Sport",
+    "description": "The most awaited wrestling event of the year.",
+    "dates": [
+      {
+        "date": "2025-04-25",
+        "price": 100
+      }
+    ],
+    "venue": "Mega Arena",
+    "time": "6:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/30098562/pexels-photo-30098562/free-photo-of-dramatic-lucha-libre-wrestling-match-in-arena.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 15,
+    "name": "Indie Music Fest",
+    "category": "Concert",
+    "description": "A festival showcasing the best indie music acts.",
+    "dates": [
+      {
+        "date": "2025-03-30",
+        "price": 60
+      }
+    ],
+    "venue": "Festival Grounds",
+    "time": "3:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 16,
+    "name": "Folk Music Night",
+    "category": "Concert",
+    "description": "An evening of traditional folk music and storytelling.",
+    "dates": [
+      {
+        "date": "2025-03-05",
+        "price": 45
+      }
+    ],
+    "venue": "The Folk House",
+    "time": "7:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/6398745/pexels-photo-6398745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 17,
+    "name": "Comedy All-Stars",
+    "category": "Comedy",
+    "description": "A stellar lineup of the best comedians in the industry.",
+    "dates": [
+      {
+        "date": "2025-04-10",
+        "price": 28
+      }
+    ],
+    "venue": "Laugh Lounge",
+    "time": "8:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/22820478/pexels-photo-22820478/free-photo-of-clown-standing-on-stage.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 18,
+    "name": "Marathon 2025",
+    "category": "Sport",
+    "description": "Run for glory in this year’s epic marathon event.",
+    "dates": [
+      {
+        "date": "2025-05-02",
+        "price": 10
+      }
+    ],
+    "venue": "City Park",
+    "time": "6:00 AM",
+    "imageUrl": "https://images.pexels.com/photos/2567222/pexels-photo-2567222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 19,
+    "name": "Opera Classics",
+    "category": "Concert",
+    "description": "A night of breathtaking opera performances.",
+    "dates": [
+      {
+        "date": "2025-03-25",
+        "price": 75
+      }
+    ],
+    "venue": "Grand Opera House",
+    "time": "8:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/6896333/pexels-photo-6896333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 20,
+    "name": "Boxing Championship",
+    "category": "Sport",
+    "description": "The ultimate showdown between the top boxers in the league.",
+    "dates": [
+      {
+        "date": "2025-06-12",
+        "price": 85
+      }
+    ],
+    "venue": "Gladiator Arena",
+    "time": "9:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/28304158/pexels-photo-28304158/free-photo-of-two-boxers-are-fighting-in-a-boxing-ring.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 21,
+    "name": "Late Night Symphony",
+    "category": "Concert",
+    "description": "An exclusive late-night symphony performance.",
+    "dates": [
+      {
+        "date": "2025-05-15",
+        "price": 65
+      }
+    ],
+    "venue": "Harmony Hall",
+    "time": "10:30 PM",
+    "imageUrl": "https://images.pexels.com/photos/14457158/pexels-photo-14457158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 22,
+    "name": "Stand-Up Marathon",
+    "category": "Comedy",
+    "description": "A marathon of stand-up performances to keep you laughing all night.",
+    "dates": [
+      {
+        "date": "2025-04-20",
+        "price": 40
+      }
+    ],
+    "venue": "The Laugh Factory",
+    "time": "6:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/16926240/pexels-photo-16926240/free-photo-of-balloon-in-child-hands-against-singers-on-stage.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 23,
+    "name": "Track and Field Meet",
+    "category": "Sport",
+    "description": "Catch all the action at this year’s track and field meet.",
+    "dates": [
+      {
+        "date": "2025-07-10",
+        "price": 15
+      }
+    ],
+    "venue": "Olympic Stadium",
+    "time": "9:00 AM",
+    "imageUrl": "https://images.pexels.com/photos/3905827/pexels-photo-3905827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 24,
+    "name": "Classic Rock Revival",
+    "category": "Concert",
+    "description": "Relive the golden era of rock with classic hits performed live.",
+    "dates": [
+      {
+        "date": "2025-05-05",
+        "price": 50
+      }
+    ],
+    "venue": "Legends Arena",
+    "time": "7:00 PM",
+    "imageUrl": "https://images.pexels.com/photos/1181770/pexels-photo-1181770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 25,
+    "name": "Cycling Tour Challenge",
+    "category": "Sport",
+    "description": "Participate in the exciting cycling tour across the city.",
+    "dates": [
+      {
+        "date": "2025-06-20",
+        "price": 20
+      }
+    ],
+    "venue": "Citywide",
+    "time": "7:00 AM",
+    "imageUrl": "https://images.pexels.com/photos/12838/pexels-photo-12838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
